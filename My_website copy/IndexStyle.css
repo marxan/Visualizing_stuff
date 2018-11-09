@@ -1,0 +1,24 @@
+h1 {
+    color: green;
+    width: 80%;
+    height: 80%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#pepe {
+    color:blue;
+
+}
+
+.Juan {
+  font-family: Courier;
+}
+
+svg {
+  background-color: whiteSmoke;
+  color: red;
+
+}
